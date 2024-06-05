@@ -4,3 +4,5 @@ dudesahn
 https://gist.github.com/dudesahn/4a055c3c2af35b79aecc0f00cdd221c1
 pashov
 https://github.com/pashov/audits/blob/master/solo/SolidlyV3AMM-security-review.md
+Cyfrin
+https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2024-01-24-cyfrin-solidlyV3-v2.0.pdf
